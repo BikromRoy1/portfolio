@@ -60,7 +60,10 @@ const Hero = () => {
             Hi! I&apos;m Bikrom, a Next.js Developer based in Bangladesh.
           </p>
 
-          <a href='#about'>
+          <a
+            href='https://drive.google.com/file/d/1VTLgGPW_emRfmAVVhecB7QCYfyPW548A/view?usp=sharing'
+            target='_blank'
+          >
             <MagicButton
               title='See my Resume'
               icon={<FaLocationArrow />}
